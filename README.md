@@ -18,8 +18,8 @@ Currently working on: Bachelor Degree Project - PulseMap
 
 # Languages - Frameworks - Tools
 <div>
-  <div align=center>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <div align=center >
+    <img src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -29,10 +29,13 @@ Currently working on: Bachelor Degree Project - PulseMap
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </div>
   <div align=center>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+     <img src="https://img.shields.io/badge/.NET Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </div>
   <div align = center>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&labelColor=black">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Server-%23D71F00?style=for-the-badge">
   </div>
 </div>
 
