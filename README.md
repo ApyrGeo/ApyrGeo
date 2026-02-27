@@ -25,9 +25,9 @@ Currently learning/experimenting with:
 
 Future ideas for projects 🚧:
 
-- **AI for Cryptic Crosswords in Romanian**
+- **AI & App for Cryptic Crosswords in Romanian**
    - Analyze complexity of Riddle text
-   - Decode solution of a Riddle and/or generate one based on final text
+   - *Decode solution of a Riddle and/or generate one based on final solution*
    - more to be decided 🤔
 
 # Languages - Frameworks - Tools
