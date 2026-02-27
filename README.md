@@ -1,10 +1,7 @@
-
 <div align=center>
-   <img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hello+there!+%F0%9F%AB%A1;I%60m+George+Secure;Welcome+to+my+GitHub+Page!" alt="Typing SVG" />
+   <img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&center=true&color=B5DF16&width=435&lines=Hello+there!+%F0%9F%AB%A1;I%60m+George+Secure!;Welcome+to+my+GitHub+Page!" alt="Typing SVG" />
 </div>
 
-<br>
-<br>
 
 # Activity
 
@@ -22,11 +19,10 @@ Currently learning/experimenting with:
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
-<br>
-<br>
 
 # Languages - Frameworks - Tools
-<div align="center">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -48,7 +44,7 @@ Currently learning/experimenting with:
 
 ###
 
-<div align="center">
+<div align="left">
   <img title=".NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img title="Entity Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
@@ -58,7 +54,7 @@ Currently learning/experimenting with:
 
 ###
 
-<div align="center">
+<div align="left">
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -66,12 +62,16 @@ Currently learning/experimenting with:
   <img title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-<br>
-<br>
+# Stats
+
+![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=ApyrGeo&size_weight=0.5&count_weight=0.5&theme=merko&layout=donut&hide=Kotlin)
+<!-- ![](https://github-readme-stats-fast.vercel.app/api?username=ApyrGeo&hide=stars,contribs&show=reviews&show_icons=true&theme=merko) -->
+
+> Based on public repositories
 
 # Contact
 
-<div align=center>
+<div align=left>
   <a href="mailto:geosebi2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target=_blank/>
   </a>
@@ -84,4 +84,4 @@ Currently learning/experimenting with:
 <br>
 <br>
 
-<!--![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FApyrGeo&label=VISITORS&countColor=%23263759&labelStyle=lower) -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FApyrGeo&label=VISITORS&countColor=%23263759&labelStyle=lower)
