@@ -7,6 +7,8 @@
 
 Currently working on: Bachelor Degree Project - PulseMap
 
+#
+
 Currently learning/experimenting with:
 
 <div align="left">
@@ -19,6 +21,14 @@ Currently learning/experimenting with:
   <img title="Ionic React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
 </div>
 
+#
+
+Future ideas for projects 🚧:
+
+- **AI for Cryptic Crosswords in Romanian**
+   - Analyze complexity of Riddle text
+   - Decode solution of a Riddle and/or generate one based on final text
+   - more to be decided 🤔
 
 # Languages - Frameworks - Tools
 
@@ -67,7 +77,7 @@ Currently learning/experimenting with:
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=ApyrGeo&size_weight=0.5&count_weight=0.5&theme=merko&layout=donut&hide=Kotlin)
 <!-- ![](https://github-readme-stats-fast.vercel.app/api?username=ApyrGeo&hide=stars,contribs&show=reviews&show_icons=true&theme=merko) -->
 
-> Based on public repositories
+> \*Based on public repositories
 
 # Contact
 
