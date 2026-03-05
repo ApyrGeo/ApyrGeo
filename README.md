@@ -94,4 +94,4 @@ Future ideas for projects 🚧:
 <br>
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FApyrGeo&label=VISITORS&countColor=%23263759&labelStyle=lower
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FApyrGeo&label=VISITORS&countColor=%23263759&labelStyle=lower)
