@@ -74,7 +74,7 @@ Future ideas for projects 🚧:
 
 # Stats
 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=ApyrGeo&size_weight=0.5&count_weight=0.5&theme=merko&layout=donut&hide=Kotlin)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=ApyrGeo&size_weight=0.5&count_weight=0.5&theme=merko&layout=donut&langs_count=8)
 <!-- ![](https://github-readme-stats-fast.vercel.app/api?username=ApyrGeo&hide=stars,contribs&show=reviews&show_icons=true&theme=merko) -->
 
 > \*Based on public repositories
@@ -94,4 +94,4 @@ Future ideas for projects 🚧:
 <br>
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FApyrGeo&label=VISITORS&countColor=%23263759&labelStyle=lower)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FApyrGeo&label=VISITORS&countColor=%23263759&labelStyle=lower
