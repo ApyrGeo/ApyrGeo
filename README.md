@@ -23,7 +23,7 @@ Currently learning/experimenting with:
 
 #
 
-Future ideas for projects 🚧:
+[Future ideas for projects 🚧:]: # 
 
 # Languages - Frameworks - Tools
 
