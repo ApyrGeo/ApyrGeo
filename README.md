@@ -5,9 +5,9 @@
 
 # Activity
 
-Currently working on: Bachelor Degree Project - PulseMap
+[Currently working on: Bachelor Degree Project - PulseMap]: #
 
-#
+[#]: #
 
 Currently learning/experimenting with:
 
